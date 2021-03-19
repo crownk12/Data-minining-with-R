@@ -1,2 +1,2 @@
 # Data-minining-with-R
-Based on INFO 523 and MIS 545 course
+Based on INFO523 and MIS545 course
